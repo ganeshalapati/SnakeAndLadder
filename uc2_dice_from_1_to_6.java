@@ -8,7 +8,7 @@ public class uc2_dice_from_1_to_6 {
 		 int start_position = 0;
 		int dice = (int) ((Math.random() * 6) + 1);
 		
-				System.out.println("rolled number is " +dice);
+				System.out.println("rolled number is " +dicee);
 
 
 	}
